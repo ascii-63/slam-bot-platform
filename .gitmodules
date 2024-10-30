@@ -1,3 +1,4 @@
 [submodule "agv-slam_rtabmap"]
 	path = agv-slam_rtabmap
 	url = https://github.com/ascii-63/agv-slam_rtabmap.git
+	branch = main
