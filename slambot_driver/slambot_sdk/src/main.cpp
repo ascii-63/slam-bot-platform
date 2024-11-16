@@ -1,5 +1,3 @@
-// src/main.cpp
-
 #include "encoder_motor.h"
 #include <iostream>
 #include <ros/ros.h>

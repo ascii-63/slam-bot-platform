@@ -1,5 +1,3 @@
-// EncoderMotorController.h
-
 #ifndef ENCODER_MOTOR_H
 #define ENCODER_MOTOR_H
 

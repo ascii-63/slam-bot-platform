@@ -31,6 +31,10 @@
 	"files.associations": {
 		"iostream": "cpp",
 		"stdexcept": "cpp",
-		"ostream": "cpp"
+		"ostream": "cpp",
+		"array": "cpp",
+		"string": "cpp",
+		"string_view": "cpp",
+		"tuple": "cpp"
 	}
 }

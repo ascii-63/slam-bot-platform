@@ -1,5 +1,3 @@
-// EncoderMotorController.cpp
-
 #include "encoder_motor.h"
 #include <iostream>
 #include <fcntl.h>
